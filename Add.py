@@ -1,1 +1,1 @@
-This adds numbers
+print("Addition of 2 numbers")
